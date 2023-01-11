@@ -25,6 +25,5 @@ import libraries make sure that all installed on your computer using pip install
 python -m PyInstaller --clean --noconfirm --onefile  --windowed --add-data "c:\users\lenovo\appdata\local\packages\pythonsoftwarefoundation.python.3 10_qbz5n2kfra8p0\localcache\local-packages\python310\site-packages/customtkinter;customtkinter/" -i "img.ico" -n "My Pharmacy" "main.py" 
 
 
-
-<img src="https://freeimage.host/i/H7Di40g.png" style=" width:100px ; height:100px " />
+https://freeimage.host/i/H7Di40g
 
