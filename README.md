@@ -26,5 +26,5 @@ python -m PyInstaller --clean --noconfirm --onefile  --windowed --add-data "c:\u
 
 
 
-<img src="https://freeimage.host/i/H7Di40g" style=" width:100px ; height:100px " />
+<img src="https://freeimage.host/i/H7Di40g.png" style=" width:100px ; height:100px " />
 
