@@ -1,5 +1,5 @@
 # Pharmacy-Management-System
-it is a pharmacy management system using python as programming language and Tkinter as GUI library 
+it is a pharmacy management system using python as programming language and Tkinter as GUI library  
 it is a Desktop application
 
 ### install libraries
