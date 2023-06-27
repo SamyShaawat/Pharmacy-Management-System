@@ -4,21 +4,14 @@ import customtkinter as ctk
 from tkinter import * 
 from tkinter import ttk
 from tkinter import messagebox, filedialog
-import ttkthemes
-import mysql.connector as mysql
-from mysql.connector.locales.eng import client_error
 import csv
 import os
 import pandas as pd
-from sqlalchemy import create_engine
-import pymysql
-import xlrd
-import openpyxl
 import xlsxwriter
 import sqlite3
 import arabic_reshaper
 from bidi.algorithm import get_display
-import tkinter.font as font
+
 
 #connect to sqlite and creating database file:
 #make sure to install "DB Browser (SQLite)"
@@ -553,3 +546,4 @@ root.iconbitmap(r'img.ico')
 root.geometry("1000x500")
 root.mainloop()
 del root
+
