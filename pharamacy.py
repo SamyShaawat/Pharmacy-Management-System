@@ -542,8 +542,7 @@ ctk.set_appearance_mode("light")  # Modes: "System" (standard), "Dark", "Light"
 ctk.set_default_color_theme("dark-blue")  # Themes: "blue" (standard), "green", "dark-blue"
 root.title("My Pharmacy")
 
-root.iconbitmap(r'img.ico')
+# root.iconbitmap(r'img.ico')
 root.geometry("1000x500")
 root.mainloop()
 del root
-
