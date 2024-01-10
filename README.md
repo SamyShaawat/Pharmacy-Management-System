@@ -42,8 +42,12 @@ python main.py
 
 - **Exit**: To close the application, click the "Exit" button.
 
-### Note
+### Home Page:
+![Home Page](HomePage.png)
 
+### Add New Item:
+![Add New Item](addNewItem.png)
+### Note
 Make sure you have the appropriate permissions to perform database operations (add, update, delete) based on your user role.
 
 ### Requirements
