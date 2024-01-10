@@ -21,7 +21,7 @@ In addition, you need to install "DB Browser (SQLite)" to connect to the SQLite 
 To start the application, run the following command:
 
 ```shell
-python main.py
+python pharamacy.py
 ```
 
 ### Features
@@ -47,8 +47,6 @@ python main.py
 
 ### Add New Item:
 ![Add New Item](addNewItem.png)
-### Note
-Make sure you have the appropriate permissions to perform database operations (add, update, delete) based on your user role.
 
 ### Requirements
 
